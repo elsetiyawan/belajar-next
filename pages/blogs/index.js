@@ -1,8 +1,8 @@
-import React from 'react';
-
 function blog() {
   return (
-    <div>blog</div>
+    <div>
+      <button type="button" className="btn btn-primary">Warning</button>
+    </div>
   );
 }
 

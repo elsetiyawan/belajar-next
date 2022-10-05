@@ -1,5 +1,6 @@
 /* eslint-disable react/prop-types */
 /* eslint-disable react/jsx-props-no-spreading */
+import 'bootstrap/dist/css/bootstrap.css';
 import '../styles/globals.css';
 
 function MyApp({ Component, pageProps }) {
