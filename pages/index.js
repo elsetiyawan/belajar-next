@@ -1,5 +1,10 @@
+import CustomHeader from "../components/header";
+
 export default function Home() {
   return (
-    <div />
+    <>
+      <CustomHeader />
+      <div>Welcome!</div>
+    </>
   );
 }
